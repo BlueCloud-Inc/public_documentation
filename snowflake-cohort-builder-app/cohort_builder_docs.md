@@ -220,9 +220,11 @@ When geospatial data is available, an interactive map is displayed:
 ### C. Saving the Cohort
 
 **Save Option:**  
-When you are satisfied with your cohort, click the save button. The app stores the cohort as either a scheduled or static table based on your configuration.
-If your cohort already saved or just loaded you can update it after making some changes to the filters. 
-If you scheduled your cohort as a Dynamic table, updating the Cohort will effectively delete the cohort table and require you to re-create your schedule.
+
+ - When you are satisfied with your cohort, click the save button. 
+ - The app stores the cohort as either a scheduled or static table based on your configuration.
+ - If your cohort already saved or just loaded you can update it after making some changes to the filters.
+ - If you scheduled your cohort as a Dynamic table, updating the Cohort will effectively delete the cohort table and require you to re-create your schedule.
 ---
 
 ## 5. Schedule Cohort Screen
