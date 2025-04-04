@@ -2,6 +2,8 @@
 
 We developed the Cohort Management App using Streamlit and the Snowflake Native App framework so that you can securely create, filter, save, and schedule data cohorts in your own Snowflake account. In addition, the app supports geospatial data analysis and visualization. This documentation offers clear, step‐by‐step instructions for every screen and feature, guiding you through the entire workflow.
 
+Also, here are a **[step-by-step instructions](cohort_builder_walkthough.md)** on how to create you first cohort.
+
 ---
 
 ## 1. Home Screen
@@ -297,6 +299,7 @@ If enabled, the app uses the LLM (`mistral-large`) to generate enhanced descript
 - **SQL Formatting:** The app formats SQL queries before they are displayed for improved readability.
 
 ---
+If you need some visual examples, check our **[step-by-step instructions](cohort_builder_walkthough.md)** on how to create you first cohort.
 
 Happy cohorting!
 
